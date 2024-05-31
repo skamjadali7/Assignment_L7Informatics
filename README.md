@@ -4,6 +4,7 @@ This Project contains both UI and API test as part of L7 Informatics assignment.
   -  git enabled in your machine [git reference](https://git-scm.com/)
   -  NodeJS installed [Node Installation reference](https://nodejs.org/en)
     ( You can use NVM if specific version of node you wan to work )
+  - Clone this Project Repository in your local
 
  1. **- Setting up NodeJS (http-server)**
     - We will interact with HTML content from local , so please install `http-server` via Terminal/Command Prompt
@@ -20,7 +21,6 @@ This Project contains both UI and API test as part of L7 Informatics assignment.
      - You can access ( `/greeting` & `/reset-api` via above in http://localhost:7668 )
   
 **Basic Setup for Cypress**
-  - Clone the Repository
   - Go to cypress folder directory via Terminal/Command Prompt
   - type` npm init`
   - type `npm install cypress --save-dev`
