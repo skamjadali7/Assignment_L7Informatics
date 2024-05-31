@@ -3,7 +3,7 @@ This Project contains both UI and API test as part of L7 Informatics assignment.
 **Pre-Requiste**
   -  git enabled in your machine [git reference](https://git-scm.com/)
   -  NodeJS installed [Node Installation reference](https://nodejs.org/en)
-    ( You use NVM if specific version of node you wan to work )
+    ( You can use NVM if specific version of node you wan to work )
 
  1. **- Setting up NodeJS (http-serve)**
     - We will interact with HTML content from local , so please install `http-server` via Terminal/Command Prompt
