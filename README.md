@@ -5,7 +5,7 @@ This Project contains both UI and API test as part of L7 Informatics assignment.
   -  NodeJS installed [Node Installation reference](https://nodejs.org/en)
     ( You can use NVM if specific version of node you wan to work )
 
- 1. **- Setting up NodeJS (http-serve)**
+ 1. **- Setting up NodeJS (http-server)**
     - We will interact with HTML content from local , so please install `http-server` via Terminal/Command Prompt
     - type `npm install -g http-server`
     - Open Terminal/Command Prompt and naigate to 'cypress/e2e/pages' path containing your HTML files
