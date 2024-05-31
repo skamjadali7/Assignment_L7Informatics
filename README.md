@@ -17,7 +17,7 @@ This Project contains both UI and API test as part of L7 Informatics assignment.
     - type `npm install express morgan`
     - navigate to cypress/e2e/server.js via Terminal/Command Prompt
     - type `node server.js` ( to run the server on localhost:7668 )
-    - You can access ( `/greeting` & `reset-api` via above in localhost:7668 )
+    - You can access ( `/greeting` & `reset-api` via above in http://localhost:7668 )
   
 **Basic Setup for Cypress**
   - Clone the Repository
