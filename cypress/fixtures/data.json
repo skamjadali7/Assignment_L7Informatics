@@ -1,0 +1,7 @@
+{
+  "headerTextGood": "A11y demo page",
+  "paragraphTextGood": "This page should pass A11y checks",
+  "headerTextBad": "A11y demo page - BAD",
+  "paragraphTextBad": "some text that is hard to read",
+  "l7ApiText" : "L7 API Testing Page"
+}
