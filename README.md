@@ -24,6 +24,6 @@ This Project contains both UI and API test as part of L7 Informatics assignment.
   - Go to cypress folder directory via Terminal/Command Prompt
   - type` npm init`
   - type `npm install cypress --save-dev`
-  - type `npx cypress open` to run test using cypress test runner / `npx run cypress` to run your test on headless mode
+  - type `npx cypress open` to run test using cypress test runner / `npx cypress run` to run your test on headless mode
 
 **Author** - **@mj@d**
